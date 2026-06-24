@@ -35,6 +35,10 @@ The vulnerable step is the move from bridge principles to UG as the only possibl
 
 The phrase `self-identified linguists` should not be the centre of the response, but it matters as evidence of boundary policing. The more important passage is the chapter's stipulation that, unless otherwise indicated, `linguists` means Chomsky and those who broadly share his philosophical stance. That restriction may be harmless for reconstructing Chomskyan methodology. It is not harmless if the chapter then draws conclusions about what linguists as such can do.
 
+## Rhetorical Stance
+
+Follow Rapaport's rules: reconstruct the target argument charitably, concede the strongest defensible points, quote accurately, and avoid cheap shots. After that, press the critique hard. The paper should expose the monopoly claim and the boundary-policing move as forcefully as the evidence allows.
+
 ## Positive Alternative
 
 A projectibility account asks:
