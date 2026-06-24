@@ -2,6 +2,8 @@
 
 Status: scaffolded.
 
+Public repository: <https://github.com/BrettRey/bridge-principles-no-ug>
+
 Current aim: write a short paper arguing that crosslinguistic inference needs bridge principles, but that the need for bridge principles does not establish Chomskyan Universal Grammar as the only possible license for evidential travel.
 
 Next actions:
