@@ -9,3 +9,4 @@
 - Do not add citations or bibliography entries until the cited source details are verified.
 - Keep the paper's level discipline explicit: mental grammars, public standards, corpus profiles, typological comparanda, and norm-governed varieties are different targets.
 - Publish the project as a public GitHub repository at `BrettRey/bridge-principles-no-ug` under CC BY 4.0; include the compiled scaffold PDF alongside the source.
+- Record the LingBuzz preprint as the public citation surface: <https://lingbuzz.net/lingbuzz/010091>. Use `lingbuzz/010091` when citing this article.

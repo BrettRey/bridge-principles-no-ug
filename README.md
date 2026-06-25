@@ -4,6 +4,10 @@ This project develops a short paper responding to Reiss's argument that Universa
 
 Core thesis: crosslinguistic inference requires bridge principles; it does not require Chomskyan Universal Grammar. A projectibility account asks what a category lets us infer, at which explanatory level, under which contrasts, and through which stabilizers.
 
+Public preprint: <https://lingbuzz.net/lingbuzz/010091>
+
+Citation handle: `lingbuzz/010091`
+
 Infrastructure:
 - `main.tex` is the paper draft.
 - `main.pdf` is the compiled draft.
