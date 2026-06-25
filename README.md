@@ -11,6 +11,7 @@ Citation handle: `lingbuzz/010091`
 Infrastructure:
 - `main.tex` is the paper draft.
 - `main.pdf` is the compiled draft.
+- `paper.md` is the generated Markdown mirror for accessibility, search, and machine readability.
 - `.house-style` is a symlink to the central house style.
 - `references.bib` is a symlink to the central bibliography.
 - `notes/project-brief.md` contains the working argument.
