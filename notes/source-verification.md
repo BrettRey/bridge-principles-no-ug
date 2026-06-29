@@ -29,11 +29,38 @@
 - Central bib: `dabrowska2010`, `dabrowska2012`, `goldberg2006`, `bybee2010`, `langacker1987foundations`, `kempson2001`, `culicover2005simpler`, `ohala1990` (all complete: author/title/year/venue confirmed 2026-06-29).
 - `references-local.bib`: `ReissVolenec2022` (Canadian Journal of Linguistics 67: 581--610), data from Reiss chapter reference list, line 751. Run /push-bib at polish time.
 
-## Source-verification debt before journal submission (flagged by round-3 board)
+## Verification pass results (2026-06-29)
 
-- Page-anchor: `huddleston2002` 822--838 NPI gloss; `fortson2004` cognate set + Grimm's Law; `hoeksema2012` distributional classes; `aikhenvald2004`/`GokselKerslake2005` Turkish indirect evidential.
-- Confirm paraphrase/existence: `stainton2011public` ("humanly individuated system"); `santana2016language` (confirm year/venue, "pluralist" is Santana's framing); `pullum2001` (right Pullum & Scholz paper); `milroy1999`, `agha2005` (enregisterment year).
-- Make the projectibility test self-contained rather than hostage to `reynolds2026kindsProjectibilityProfiles`.
+All central-bib metadata for the flagged keys confirmed present and correct (author/title/year/venue/pages).
+
+VERIFIED against the source text in `literature/`:
+
+- `huddleston2002` (CGEL): abbreviation list reads verbatim "NPI negatively-oriented polarity-sensitive item (p. 822)"; the polarity-sensitive-items discussion confirms "we use the term non-affirmative to cover these (and certain other) clauses ... an alternative to negatively-oriented polarity-sensitive item"; §4.1 "Negatively-oriented polarity-sensitive items (NPIs)" begins p. 823 and runs into the 830s, so the cited range 822--838 is accurate. Footnote hyphenation corrected to match CGEL ("negatively-oriented").
+- `stainton2011public`: "public languages are humanly-individuated types"; "get empirical evidence about these humanly-individuated abstracta from their deployment ... theorists can learn about public languages from recherché psychological findings"; "the evidence base is to be distinguished from the object of investigation." Paper's paraphrase is exact.
+- `santana2016language`: abstract states "we should be pluralists about the metaphysical status of language"; three ontologies (psychological, social, abstract). "Pluralist" is Santana's own framing. Exists: Ergo 3(19):501--523.
+- `pullum2001`: confirmed to be "On the Distinction between Model-Theoretic and Generative-Enumerative Syntactic Frameworks"; MTS-vs-GES framing matches the paper's use.
+- `agha2005`: "processes of enregisterment, processes whereby distinct forms of speech come to be [socially recognized]"; matches the paper's gloss. Enregisterment is Agha's term; year 2005 confirmed.
+- `Goodman1955`: chapters "Presumptive/Comparative Projectibility"; the grue argument that "all predicates are not equally projectible." Correct source for projectibility.
+
+CORROBORATED, but cited paper not in `literature/`:
+
+- `hoeksema2012` ("On the Natural History of NPIs", Linguistic Analysis 38): the cited 2012 paper isn't local, but the distributional-classes claim (questions, comparatives, conditionals, universals, only, superlatives) is confirmed across the locally held Hoeksema NPI surveys (`hoeksema2007npi`, `hoeksema2021npi`, which cover all six environments). The claim is characteristic of Hoeksema's NPI work. OPTION: switch the cite to `hoeksema2021npi` (locally held, even more comprehensive) for a fully source-grounded reference.
+
+METADATA verified + linguistic fact standard/correct, but source NOT in `literature/` (page anchor unconfirmed; needs Brett's copies before submission):
+
+- `fortson2004`: the cognate set (Latin \olang{pater}, Greek \olang{pat\={e}r}, Sanskrit \olang{pitar-}, Gothic \olang{fadar}) and the Grimm's-Law f~p correspondence are correct standard IE facts; the paper scopes Grimm's Law to the f~p correspondence (not the medial -d-, which is Verner), so the claim is accurate. Add a page anchor from the book.
+- `aikhenvald2004`, `GokselKerslake2005`: the Turkish grammaticalized indirect-evidential (-mIş) is standard and correctly described; page anchors needed.
+- `milroy1999`: correct reference for standardization; general claim, apposite.
+- `ladusaw1979`, `chierchia_logic_2013`: apposite references for the French \olang{rien} negative-concord / negative-quantifier point; claim is standard Romance polarity/NC linguistics.
+
+AUTHOR'S OWN (existence per Brett): `reynolds2025comparanda`, `reynolds2026kindsProjectibilityProfiles`, `reynolds2026varieties`, `reynolds2026whatLanguage`. Board note still standing: make the projectibility test self-contained rather than hostage to `reynolds2026kindsProjectibilityProfiles`.
+
+## Haspelmath 1997 (added 2026-06-29, horizontal indefinite-map sketch)
+
+- `haspelmath1997` (*Indefinite Pronouns*, OUP) is in the central bib; the book is NOT in `literature/` (the `86.3.haspelmath01.md` file is a duplicate of the 2010 comparative-concepts paper). The sketch attributes to it only the core, well-corroborated claims: that the functions served by indefinite-reference forms (negation, questions, conditionals, free choice) map as regions in a functional space, with colexification/splitting constrained rather than arbitrary. The 2010 paper (held locally) cross-references "Haspelmath 1997:§7.3" for question-word indefinites, corroborating the work's existence and scope. NOT verified against the book: the precise function inventory and implicational ordering (the full 9-cell map), which were deliberately left unstated. Page-anchor the map against the book before submission.
+- Terminological note (Brett, 2026-06-29): the sketch deliberately frames the grouping as a functional comparative concept, NOT a syntactic category of pronoun, to avoid reifying "indefinite pronoun" as a category. This is consistent with Haspelmath's own comparative-concepts method and with the paper's category/function discipline.
+
+Remaining debt before journal submission: page anchors for `fortson2004`, `aikhenvald2004`/`GokselKerslake2005`, `haspelmath1997` (indefinite map); decide whether to keep `hoeksema2012` or switch to the local `hoeksema2021npi`; `/push-bib` to merge `ReissVolenec2022` into the central bib.
 
 ## Citation Tasks
 
