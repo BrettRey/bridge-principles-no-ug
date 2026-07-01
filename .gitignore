@@ -15,3 +15,7 @@
 .DS_Store
 *.bak
 *.tmp
+
+# Local literature PDFs live in the central literature store.
+literature/*.pdf
+literature/**/*.pdf

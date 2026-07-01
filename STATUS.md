@@ -39,3 +39,21 @@ Next actions:
 - Added `references-local.bib` (Reiss & Volenec 2022 and related entries); updated `notes/source-verification.md`.
 - Revision plan documented in `docs/plans/reiss-email-revision-2026-06-29.md`; review board output in `reviews/review-board-20260629-155013-round3/`.
 - Current open: implement the structural changes in main.tex, rebuild, then decide on target journal.
+
+### 2026-06-30 Session Notes (completion; work ran 06-29 into early 06-30)
+
+- All structural changes implemented and shipped on `journal-submission-reiss-revision`, four commits, all pushed; `main` (lingbuzz/010091) untouched: `a7a399e` (round-3 board revision), `fafb99c` (GPT-pro review + "functional"->semantic terminology purge + source-verification pass), `dd9d239` (five near-submission edits), `664cce0` (abstract voice fix, `linguists' retention sentence, §2 two-issues fix, two §3 close-readings).
+- Two GPT-pro review rounds folded in selectively (not all suggestions): abstract two-roles framing with stipulative concession; merged Boundary Stipulation into §3; historical "importing" overclaim softened; substance-free-features rebuttal sharpened to absorb Reiss's transduction move; Haspelmath indefinite-reference semantic-map horizontal sketch (route b, marked a sketch); §9 trimmed; "ordering relation" defined at its §5 home.
+- Terminology: purged "functional" throughout per Brett; reframed comparative-concept material as semantic targets, aligned with the syntax-semantics firewall of `reynolds2025comparanda` (naturalizing-typological-kinds).
+- Strongest addition: two §3 close-reading paragraphs proving the monopoly overruns Reiss's own stipulation, via "no linguist works in this way, despite their anti-UG protestations" (sec. 5.3.1, incoherent under the stipulated `linguists') and "allows us to construct this kind of argument" (sec. 5.3.3, "us" unspecified + footnote calls the device "common").
+- Source-verification pass done: 6 citations verified against source text (CGEL NPI gloss incl. p. 822 + the 822--838 range, Stainton, Santana, Pullum & Scholz, Agha, Goodman); `ReissVolenec2022` added to `references-local.bib`. Remaining debt logged in `notes/source-verification.md`.
+- Builds clean throughout (17 pages, zero undefined citations, one soft paragraph-opener cadence warning).
+- Open: acknowledgement (keep named/verified vs generic); venue (JoL as-is vs a Language version with §9 trim + retitle "Bridge Principles for Crosslinguistic Evidence"); source-verification page-anchor debt; optional round-4 review board before any merge to `main`.
+
+### 2026-06-30 Session Notes (morning close-reading/reorg pass)
+
+- Brett flagged that the scope/stipulation discussion had been separated from the quotes that motivate it. The durable diagnosis is post-stipulation equivocation: Reiss stipulates `linguists' narrowly, but later language such as "no linguist", "us", and denial of UG only does the advertised work on a broad linguists reading.
+- Organization preference updated: keep the stipulation material close to the close-reading evidence rather than treating it as a free-standing notation complaint. The issue is not the typography itself but the projection from Reiss's stipulated subkind to field-wide conclusions.
+- Wording preference updated: avoid saying the needed bridge is what Reiss's "opponents" owe. The point is that Reiss's field-wide conclusion itself requires a warrant.
+- Verification during this pass: house-style checker clean, `git diff --check` clean, and `make quick` rebuilt the PDF with only standing `fancyhdr`/`microtype` warnings.
+- Open: decide whether to commit the current local status/log updates and untracked review artifacts, or leave them as working-session context.
