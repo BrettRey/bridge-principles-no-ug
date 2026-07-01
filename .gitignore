@@ -19,3 +19,7 @@
 # Local literature PDFs live in the central literature store.
 literature/*.pdf
 literature/**/*.pdf
+
+# Generated extraction images are not project sources.
+literature/*_images/
+literature/**/*_images/
