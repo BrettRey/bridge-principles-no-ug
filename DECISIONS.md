@@ -9,7 +9,7 @@
 - Do not add citations or bibliography entries until the cited source details are verified.
 - Keep the paper's level discipline explicit: mental grammars, public standards, corpus profiles, typological comparanda, and norm-governed varieties are different targets.
 - Publish the project as a public GitHub repository at `BrettRey/bridge-principles-no-ug` under CC BY 4.0; include the compiled scaffold PDF alongside the source.
-- Record the LingBuzz preprint as the public citation surface: <https://lingbuzz.net/lingbuzz/010091>. Use `lingbuzz/010091` when citing this article.
+- Record the LingBuzz preprint as the public citation surface: <https://lingbuzz.net/lingbuzz/010104>. Use `lingbuzz/010104` when citing this article.
 
 ## 2026-06-25
 
@@ -26,3 +26,7 @@
 - Recast the abstract as a direct response to Reiss's exclusivity claim, with `\textcite{reiss2026armchair}` in the first sentence. Reason: the new abstract should make the argumentative target and source explicit after Roughdraft review.
 - Keep the abstract's final emphasis on auditable warrants rather than a general anti-UG conclusion. Reason: the project frame remains that bridge principles are necessary but UG does not monopolize them.
 - Use Charles Reiss's official Concordia profile as the source for the contact address `charles.reiss@concordia.ca`. Reason: external contact information should come from a current institutional source, not memory.
+
+## 2026-07-01
+
+- Treat <https://lingbuzz.net/lingbuzz/010104> as the canonical LingBuzz record and citation handle for the public preprint. Reason: Brett reposted the paper after the earlier presumed handle did not correspond to this paper.

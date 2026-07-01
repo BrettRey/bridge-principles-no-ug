@@ -3,8 +3,8 @@ title: "Bridge Principles without UG: Projectibility, Crosslinguistic Evidence, 
 author: "Brett Reynolds"
 year: "2026"
 status: "Preprint"
-canonical_url: "https://lingbuzz.net/lingbuzz/010091"
-citation_handle: "lingbuzz/010091"
+canonical_url: "https://lingbuzz.net/lingbuzz/010104"
+citation_handle: "lingbuzz/010104"
 website_url: "https://brettreynolds.ca/papers/bridge-principles-without-ug/"
 markdown_url: "https://brettreynolds.ca/papers/bridge-principles-without-ug/paper.md"
 source_url: "https://github.com/BrettRey/bridge-principles-no-ug"
@@ -14,7 +14,7 @@ keywords: ["Universal Grammar", "projectibility", "linguistic ontology", "crossl
 ---
 # Bridge Principles without UG: Projectibility, Crosslinguistic Evidence, and Linguistic Ontology
 
-**Author-manuscript mirror.** This Markdown file is provided for accessibility, search, and machine readability. The canonical public record is `lingbuzz/010091`, linked in the metadata above.
+**Author-manuscript mirror.** This Markdown file is provided for accessibility, search, and machine readability. The canonical public record is `lingbuzz/010104`, linked in the metadata above.
 
 ## Abstract
 Reiss (2026) argues that crosslinguistic evidence is empirical only against a Chomskyan background: Universal Grammar supplies the shared domain that lets evidence from French, Japanese, or Icelandic bear on English, and without it there's no principled way to import analytic categories across languages. This paper accepts the burden but rejects the exclusivity. Evidential travel needs bridge principles, not necessarily Universal Grammar. I develop a projectibility test for such principles: specify the target of projection, the profile that connects observed and projected features, the diagnostics that locate it, and the defeaters that limit its scope. The test separates three questions Reiss tends to run together: whether human languages form an inquiry domain, when evidence can travel between them, and whether UG is the only licence for that travel. Applied to Reiss's French-English *any* case, the French contrast is only a cue unless English-internal diagnostics and a support profile are supplied. Historical-comparative reconstruction gives the counterexample: common descent and regular correspondence license bounded evidential transfer without a UG warrant. The same framework also makes public standards, corpus profiles, typological comparanda, and norm-governed varieties legitimate targets when their projections are declared. Linguistic comparison needs auditable warrants; UG may provide some, but it doesn't own the need for them.
