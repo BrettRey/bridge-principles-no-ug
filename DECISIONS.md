@@ -9,7 +9,7 @@
 - Do not add citations or bibliography entries until the cited source details are verified.
 - Keep the paper's level discipline explicit: mental grammars, public standards, corpus profiles, typological comparanda, and norm-governed varieties are different targets.
 - Publish the project as a public GitHub repository at `BrettRey/bridge-principles-no-ug` under CC BY 4.0; include the compiled scaffold PDF alongside the source.
-- Record the LingBuzz preprint as the public citation surface: <https://lingbuzz.net/lingbuzz/010091>. Use `lingbuzz/010091` when citing this article.
+- Record the LingBuzz preprint as the public citation surface: <https://lingbuzz.net/lingbuzz/010104>. Use `lingbuzz/010104` when citing this article.
 
 ## 2026-06-25
 
@@ -29,7 +29,7 @@
 
 ## 2026-06-29
 
-- Revise on a `journal-submission-reiss-revision` branch; leave `lingbuzz/010091` (main) untouched. Reason: the changes touch the central concession and add a section, so the public preprint should be preserved while the journal version develops.
+- Revise on a `journal-submission-reiss-revision` branch; leave the public-preprint branch untouched. Reason: the changes touch the central concession and add a section, so the public preprint should be preserved while the journal version develops.
 - Reframe the argumentative target from Reiss's intention to the chapter's written exclusivity claim. Quote the three exclusivity statements verbatim at the point of attack ("soap bubbles" sec. 5.3.1, "Only the belief in Universal Grammar" sec. 5.3.3, "Anyone who denies UG has no grounds... competing theoretical approaches" sec. 6). Reason: round-3 board (Opus + Codex, 9 R&R / 1 reject) showed the paper over-broadened the target and under-quoted; this makes it robust to the "I meant only I-language" retreat.
 - Fix the Section 2 over-concession: distinguish I-language (a projection target) from UG-object (a bridge), using Reiss's own "belief in I-language does not entail belief in UG-object" (sec. 3). Reason: unanimous board finding; the transfer licence attaches to UG-object, not I-language inquiry, on Reiss's own terms.
 - Add a new section, "The Local Retreat: I-language, Mental Grammar, and UG," grounding non-UG inquiry into individual internal grammatical knowledge (Dąbrowska, Goldberg, Bybee, Langacker, Kempson, Culicover & Jackendoff). Frame them as investigating the target I-language talk was meant to secure, not as "doing I-language"; note Jackendoff/Culicover are mentalists rejecting the mainstream UG architecture, not anti-nativists. Reason: closes the local retreat.
@@ -66,3 +66,12 @@ Held (deliberately not applied): (1) GPT's grammar fix for the sketch reintroduc
 
 - Keep the stipulation/scope issue attached to Reiss's post-stipulation broad language rather than treating it as only a notation paragraph. Reason: later uses of "working linguists", "us", and denial of UG force a field-wide reading; under the stipulated Chomskyan reading the claims become too narrow, vacuous, or incoherent.
 - Frame the burden as what Reiss's field-wide conclusion requires, not as what his "opponents" owe. Reason: the defect is an unargued projection from the stipulated subkind to the wider field, not a debate-framed burden on adversaries.
+
+## 2026-07-01
+
+- Treat <https://lingbuzz.net/lingbuzz/010104> as the canonical LingBuzz record and citation handle for the public preprint. Reason: Brett reposted the paper after the earlier presumed handle did not correspond to this paper.
+- Use Kirby-style cultural transmission as a core non-UG ordering relation in Section 5. Reason: it gives the bridge-principles machinery a concrete mechanism by which recurrent structure can become projectible without being pre-contained in UG.
+- Use the Old Assyrian/Kanesh trade material only as an external analogy for projectibility, not as evidence about grammar or language evolution. Reason: Barjamovic et al. show recurrent coordination and record structure strong enough to support projection, but they do not show a linguistic learning bottleneck.
+- Keep literature PDFs out of the project repo and leave generated extraction images ignored. Reason: Brett explicitly flagged not to proliferate PDF copies; the project should cite/verify sources without accumulating binary literature artifacts.
+- For the public acknowledgement, name the AI systems generically as OpenAI Codex and Anthropic Claude, without brittle version labels. Reason: version labels are not essential to the scholarly acknowledgement and may become inaccurate as tooling changes.
+- Treat `main.pdf` as the canonical build artifact and use `dist/Reynolds_Bridge_Principles_without_UG_LingBuzz_2026-07-01.pdf` as an untracked LingBuzz upload copy. Reason: keeps the build pipeline clean while giving LingBuzz a useful upload filename.

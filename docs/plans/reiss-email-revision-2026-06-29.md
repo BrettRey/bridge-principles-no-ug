@@ -112,7 +112,7 @@ dilemma (local-harmless or global-false), not "Reiss hasn't shown linguists need
 5. Run the named review board, round 3, Chomskyan-formalist / hostile-Reiss-defender
    focus. Verification target: can the Reiss-defender still escape via the local
    retreat, or does the reframe force the dilemma?
-6. Decide preprint-v2 (update lingbuzz/010091) vs journal-submission branch.
+6. Decide preprint-v2 (update lingbuzz/010104) vs journal-submission branch.
 
 ## GPT-pro Draft Passages (drafting basis, adapt to house style + verified cites)
 
@@ -353,7 +353,7 @@ reynolds2026kindsProjectibilityProfiles.
   style + verified cites (Brett: "gpt pro's edits will be very useful, don't ignore
   them"). Still open: keep the Sec 3 rename and the define-terms-early insertion, or
   treat those two as optional?
-- Landing: update the LingBuzz preprint in place (v2), or journal branch with 010091
+- Landing: update the LingBuzz preprint in place (v2), or journal branch with 010104
   left as is?
 - Do NOT cite the private email or argue with Reiss in print. Email = hostile-reader
   feedback only.

@@ -12,7 +12,7 @@ I hope this finds you well.
 
 I recently read your chapter "Research Methods in Armchair Linguistics" and have written a short response, now posted on LingBuzz:
 
-https://lingbuzz.net/lingbuzz/010091
+https://lingbuzz.net/lingbuzz/010104
 
 The paper is called "Bridge Principles without UG: Projectibility, Crosslinguistic Evidence, and Linguistic Ontology." Its central claim is that your methodological challenge is exactly right: crosslinguistic evidence needs a warrant. My disagreement is with the further claim that Chomskyan Universal Grammar is the only possible licence for evidential travel across languages.
 
